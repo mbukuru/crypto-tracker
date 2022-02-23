@@ -34,7 +34,7 @@ function App() {
     <div>
       <Box>
         <Typography variant="p" component="h1" sx={{fontSize: 19}} align='center' marginTop={2}>
-          Search fora currency
+          Search for a currency
         </Typography>
         <Box marginTop={1} align='center'>
         <form>
